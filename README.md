@@ -6,7 +6,7 @@ The current snapshot (12 November 2026) holds **1,504,744 verified stores**, fou
 
 ## What's in this repo
 
-Four sample files, 25 rows each, pulled in late October 2026:
+Four sample files, 25 rows each, pulled in late October 2026 — plus one verification file, `sample-100-unmasked.csv`, covered in "Verify our data yourself" below:
 
 | File | What it shows |
 |---|---|
@@ -23,6 +23,12 @@ These are teasers, so two things are cut:
 - **Emails.** Where a store publishes a business email, you see the first three letters only — `con***@mocashpub.com`. Most email cells are empty, and that is not a defect in the sample: only 140,579 of the 1,504,744 verified stores publish an email at all. Roughly 1 in 11.
 
 A paid export has none of this. Domains and emails are complete.
+
+## Verify our data yourself
+
+`sample-100-unmasked.csv` (at the top of this repo) breaks the teaser rule on purpose: 100 records from the current snapshot with domains and emails complete — nothing masked. They are published unmasked so anyone can check the stores are live and test the emails themselves before buying anything. Pick any row, visit the store, send the address a test message if you like.
+
+The other samples in this repo stay masked teasers, as described above. The full database is sold per row at https://data.openbio.io.vn.
 
 ## Pricing
 
