@@ -1,0 +1,21 @@
+OpenData - Sample Data License
+==============================
+
+(C) 2026 OpenData (data.openbio.io.vn). All rights reserved.
+
+The files in the samples/ folder of this repository are a free
+teaser of the OpenData database, published for evaluation only.
+
+You may download and inspect them for your own evaluation. You may
+not resell, redistribute, republish or share these files, in whole
+or in part, and you may not include them in another dataset or
+product. The masking in the sample files (shortened domains and
+emails) must not be reversed or worked around.
+
+Full records are sold per row at https://data.openbio.io.vn under
+the OpenData Terms of Service (https://data.openbio.io.vn/terms/),
+which prohibit resale and redistribution of purchased data.
+
+Questions or removal requests: support@openbio.io.vn
+
+OpenData - data.openbio.io.vn
