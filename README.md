@@ -28,7 +28,7 @@ A paid export has none of this. Domains and emails are complete.
 
 `sample-100-unmasked.csv` (at the top of this repo) breaks the teaser rule on purpose: 100 records from the current snapshot with domains and emails complete — nothing masked. They are published unmasked so anyone can check the stores are live and test the emails themselves before buying anything. Pick any row, visit the store, send the address a test message if you like.
 
-The other samples in this repo stay masked teasers, as described above. The full database is sold per row at https://data.openbio.io.vn.
+The other samples in this repo stay masked teasers, as described above. The full database is sold per row at https://opendatas.store.
 
 ## Pricing
 
@@ -42,10 +42,10 @@ Minimum pull is $9.99. Exports come as CSV plus a formatted Excel file. The data
 
 ## Check a store free first
 
-Don't take our word for any of this. The store checker at https://data.openbio.io.vn/checker/ looks up any domain in the current snapshot, and a free account gets 30 full-record unlocks a month.
+Don't take our word for any of this. The store checker at https://opendatas.store/checker/ looks up any domain in the current snapshot, and a free account gets 30 full-record unlocks a month.
 
-The full database, with filters by platform, country, technology, app and payment gateway, is at https://data.openbio.io.vn — that is where full exports are sold, per row.
+The full database, with filters by platform, country, technology, app and payment gateway, is at https://opendatas.store — that is where full exports are sold, per row.
 
 ## Licence
 
-The samples are free to evaluate, not to redistribute. See `LICENSE.txt`. Questions or removal requests: support@openbio.io.vn
+The samples are free to evaluate, not to redistribute. See `LICENSE.txt`. Questions or removal requests: contact@opendatas.store
